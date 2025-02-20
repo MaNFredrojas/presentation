@@ -70,7 +70,7 @@ ul li:hover {
     width: 100px;
 }
 
-/* Animación para títulos */
+/* Animación para títulos */
 h2 {
     animation: fadeIn 1s ease-in-out;
 }
@@ -84,5 +84,4 @@ h2 {
         opacity: 1;
         transform: translateY(0);
     }
-         
 }
