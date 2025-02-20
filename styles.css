@@ -21,7 +21,7 @@ body {
 }
 
 .foto-perfil {
-    width: 100px; /* Ajusta el tamaño según necesites */
+    width: 60px; /* Ajusta el tamaño según necesites */
     height: auto; /* Mantiene la proporción de la imagen */
     border-radius: 50%; /* Hace que la imagen sea circular */
     margin-left: 20px; /* Espacio a la izquierda de la imagen */
